@@ -29,7 +29,7 @@ const Navbar: React.FC = () => {
   };
 
   const navItems = [
-    { icon: Home, label: 'Home', path: '/dashboard' },
+    { icon: Home, label: 'Home', path: '/' },
     { icon: Search, label: 'Explore', path: '/explore' },
     { icon: PlusCircle, label: 'Create', path: '/create' },
     { icon: Award, label: 'Challenges', path: '/challenges' },
